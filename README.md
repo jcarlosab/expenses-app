@@ -1,2 +1,2 @@
-# expenses-app-demo
+# expenses-app
 Demo simple para anotación de gastos
